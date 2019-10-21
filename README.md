@@ -1,2 +1,2 @@
 # EFK
-EFK deplyment on kubernetes -
+EFK deplyment on kubernetes
